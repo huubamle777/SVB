@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { Analytics } from '@vercel/analytics/react';
 import '@/assets/ccs/index.css';
-import '@/assets/ccs/index.css';
 import { RouterProvider } from 'react-router';
 import router from '@/router/router';
 
