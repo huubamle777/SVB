@@ -13,7 +13,7 @@ import detectBot from '@/utils/detect_bot';
 import { translateText } from '@/utils/translate';
 import countryToLanguage from '@/utils/country_to_language';
 import { PATHS } from '@/router/router';
-import '@/assets/css/index-landing.css';
+import '@/assets/ccs/index-landing.css';
 
 const BENEFIT_DATA = [
     { id: 1, titleKey: 'benefitsBadge', descKey: 'benefitsBadgeDesc', image: benefit1Icon },
